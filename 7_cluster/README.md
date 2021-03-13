@@ -6,7 +6,8 @@ We conducted a hierarchical cluster analysis by defining a dissimilarity measure
 #### Data inputs
 * cumulataive deaths per 100,000 people, 
 * maximum percentage of deaths in a week, 
-* maximum value of SD in a week, epidemiological week when HId became lower than 50, 
+* maximum value of SD in a week,
+* epidemiological week when HId became lower than 50, 
 * and the maximum estimated value of the effective reproduction number *(R<sub>t</sub>)* in a week. The *R<sub>t</sub>* (presented in __Table S14__) was extracted from Observatório Covid-19 Brazil ([Observatório Covid-19 Brazil](https://covid19br.github.io/)). 
 
 All data for the analysis is contained in `data/hclust_input.csv`.
