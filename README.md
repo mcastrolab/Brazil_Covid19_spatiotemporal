@@ -21,15 +21,15 @@ __One Sentence Summary:__ The spread of COVID-19 cases and deaths in Brazil expo
 __Figure 1__ *Cumulative number of COVID-19 cases (A) and deaths (B) per 100,000 people by municipality. Dark lines on the maps show state boundaries. State acronyms by region, North: AC=Acre, AP=Amapá, AM=Amazonas, PA=Pará, RO=Rondônia, RR=Roraima, and TO=Tocantins; Northeast: AL=Alagoas, BA=Bahia, CE=Ceará, MA=Maranhão, PB=Paraíba, PE=Pernambuco, PI=Piauí, RN=Rio Grande do Norte, and SE=Sergipe; Center-west: DF=Distrito Federal, GO=Goiás, MT=Mato Grosso, and MS=Mato Grosso do Sul; Southeast: ES=Espírito Santo; MG=Minas Gerais; RJ=Rio de Janeiro; and SP=São Paulo; South: PR=Paraná; RS=Rio Grande do Sul; and SC=Santa Catarina. Spatiotemporal clustering of cases (C) and deaths (D) across Brazilian municipalities. Color and number codes in the clusters and the table on the left are the same, and the table indicates the interval during which each cluster was statistically significant. Clusters were assessed with the space-time scan statistic (see supplementary materials).*
 
 # Organization
-We have organized this repo by method. Within each of the follow method's folders are separate `code`, `data`, and `README.md` files. For additional information see the `README.md` files for each method: 
+We have organized this repo by method. Within each of the methods folders are separate `code`, `data`, and `README.md` files. For additional information see the `README.md` files for each method: 
 - `1_spatiotemporal`  — the spatiotemporal clusters analysis.
-- `2_geographical_center`  — the geographical center analysis
+- `2_geographical_center`  — the geographical center analysis. (Includes supplementary .gif files)
 - `3_hoover` —  the Locational Hoover Index.
 - `4_policy_response ` - the policy response indicators
 - `5_social_distancing ` - the social distancing index
 - `6_correlations` — the Pearson correlations
 - `7_cluster` - the hierarchical cluster analysis
-- `Figures` - All figures from the main document and the supplementary .gif files a provided here
+- `Figures` - All figures from the main document 
 
 
 # Correspondence
