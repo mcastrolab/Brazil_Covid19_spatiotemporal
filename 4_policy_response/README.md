@@ -2,7 +2,7 @@
 
 We used two policy response indicators that were extracted from the COVID-19 Government Response Tracker for the Brazilian Federation ([CGRT-BRFED](https://github.com/cgrtbrfed/covid19brpolicyresponses)). The coding follows the [Oxford COVID-19 Government Response Tracker](https://covidtracker.bsg.ox.ac.uk/)).
 
-The indicators:
+#### Indicators
 - __Social Distancing Policy Stringency (SDPS) Index__ - measures the stringency level of school closures, work closures in the commerce and service sectors, work closures in industry, public and private gatherings, stay at home orders, and mask use for sub-national governments as mandated by the executive and legislative branches of government. For the federal government, it also included the stringency of international entry policies for nationals and other travelers.  
 - __Containment Index__ - includes all policies that compose the SDPS except for the use of masks.
 
