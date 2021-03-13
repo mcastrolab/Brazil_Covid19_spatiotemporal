@@ -8,16 +8,16 @@ We conducted a hierarchical cluster analysis by defining a dissimilarity measure
 * maximum percentage of deaths in a week, 
 * maximum value of SD in a week,
 * epidemiological week when HId became lower than 50, 
-* and the maximum estimated value of the effective reproduction number *(R<sub>t</sub>)* in a week. The *R<sub>t</sub>* (presented in __Table S14__) was extracted from Observatório Covid-19 Brazil ([Observatório Covid-19 Brazil](https://covid19br.github.io/)). 
+* maximum estimated value of the effective reproduction number *(R<sub>t</sub>)* in a week. The *R<sub>t</sub>* (presented in __Table S14__) was extracted from Observatório Covid-19 Brazil ([Observatório Covid-19 Brazil](https://covid19br.github.io/)). 
 
 All data for the analysis is contained in `data/hclust_input.csv`.
 
 The R script `code/Hclust.R` was developed to run the hierarchical cluster analysis.
 
 ## Manuscript Output
-The results are visualized in  __Fig. 4D__, produced in ArcMap. The creation of this map is explained, but script for reproduction is not included in this repository. ArcMap project files may be available upon request.
+The results are visualized in  __Fig. 4D__, produced in ArcMap.
 
-__Author:__ Sun Kim calculated the correlation analysis and produced the visualizations. Marcia C. Castro, PhD concieved of the research and supervised the analysis.
+__Author:__ Sun Kim conducted the cluster analysis and produced the visualizations. Marcia C. Castro, PhD concieved of the research and supervised the analysis.
 
 
 ### License
