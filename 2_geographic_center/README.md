@@ -50,6 +50,13 @@ To adapt this code to your data, please make the following changes (line numbers
 ## Manuscript Output
 This code produces  .gif files: `gif/Nation_cases_centroids.gif` and `gif/Nation_deaths_centroids.gif`.
 
+__Fig. 2A__ and __Fig. 2B__ present the path of the COVID-19 case- and death-weighted geographic centers to show the movement of the epidemic centroid in Brazil over time. __Fig. S2__ shows maps for the movement of the centroid for COVID-19 cases and deaths in each state.
+
+This R script also calculates the length of each line connecting the centroids, the length between each centroid and the capital city, and the direction of the line’s movement. In the case of states, we also calculated the distance between the capital city and the furthest municipality in the state. That distance was the denominator of a ratio that considered the length of the line connecting centroids each week as the numerator (the largest the ratio, the further cases or deaths moved to the interior) 
+  * __Fig. 2D__ (`figures/Figure2`)
+  * __Table S4__  (`6_correlations/data/distance-case.csv`)
+  * __Table S5__ (`6_correlations/data/distance-death.csv`)
+
 __Fig. 1A__ and __Fig. 1B__ (`/figure/Figure1`) were generated using ArcMap.
 
 
