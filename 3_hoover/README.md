@@ -14,12 +14,6 @@ The index is calculated as:
 
 __Interpretation:__ Therefore, the locational Hoover index represents any given municipality’s proportion of the overall population of the state to its relative proportion of COVID-19 cases or deaths within a specified period<sup>2</sup>. The index ranges from 0 (zero) to 100 (%), such that higher values indicate more imbalanced distributions (or concentration of events in a few municipalities), while lower values indicate more balanced distributions (or spread of events). 
 
-__Reference(s):__  
-1. P. A. Rogerson, D. A. Plane, The Hoover Index of Population Concentration and the Demographic Components of Change: An Article in Memory of Andy Isserman. *International Regional Science Review* 36, 97-114 (2012)
-
-2. G. M. Steeves, F. C. Petterini, G. V. Moura, The interiorization of Brazilian violence, policing, and economic growth. *EconomiA* 16, 359-375 (2015).
-
-
 
 __Data:__ The inputs for this analysis are:
 - Population - `Population.csv`  - 2020 population by municipality
@@ -35,6 +29,12 @@ The output of this code is: __Tables S6 and S7__. The temporal trend across epid
 __Fig. 3C__ and __Fig. 3D__ (`/figure/Figure3`) are bivariate choropleth maps of the index for cases and deaths for the first week states had epideomiologcal data __Fig. 3C__ and epidemiological week 41 - the last week of analysis __Fig. 3D__. These maps were created in ArcMap.
 
 __Author:__ Sun Kim calculated the locational Hoover index. Marcia C. Castro, PhD concieved of the analysis and supervised the research.
+
+__Reference(s):__  
+1. P. A. Rogerson, D. A. Plane, The Hoover Index of Population Concentration and the Demographic Components of Change: An Article in Memory of Andy Isserman. *International Regional Science Review* 36, 97-114 (2012)
+
+2. G. M. Steeves, F. C. Petterini, G. V. Moura, The interiorization of Brazilian violence, policing, and economic growth. *EconomiA* 16, 359-375 (2015).
+
 
 
 ### License
