@@ -2,7 +2,7 @@
 
 
 ## Analysis
-We assessed the progressive spread of COVID-19 cases and deaths using the locational Hoover Index<sup>2</sup> (HI), a measure of the spatial imbalance between any two variables across a geographical area.
+We assessed the progressive spread of COVID-19 cases and deaths using the locational Hoover Index<sup>1</sup> (HI), a measure of the spatial imbalance between any two variables across a geographical area.
 
 ### Calculations
 The index is calculated as:
