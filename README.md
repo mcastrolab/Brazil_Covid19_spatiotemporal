@@ -38,6 +38,8 @@ We have organized this repo by method. Within each of the methods folders are se
 # Correspondence
 For any issues with anonymization or major issues with the functionality of the script please [create an issue](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/issues).
 
+
+
 ## License
 The data collected and presented is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/), and the underlying code used to format, analyze and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). 
 
@@ -55,3 +57,6 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 - __Jeffrey Blossom__: Center for Geographical Analysis, Harvard University, Cambridge, MA, USA. | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [projects.iq.harvard.edu/jeffblossom](https://projects.iq.harvard.edu/jeffblossom/home)
 - __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@beatrizrache](https://twitter.com/beatrizrache)) 
 - __Burton H Singer__: Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4606715.svg)](https://doi.org/10.5281/zenodo.4606715)
