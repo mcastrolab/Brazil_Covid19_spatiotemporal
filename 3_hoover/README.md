@@ -30,7 +30,7 @@ __Fig. 3C__ and __Fig. 3D__ (`/figure/Figure3`) are bivariate choropleth maps of
 
 __Author:__ Sun Kim calculated the locational Hoover index. Marcia C. Castro, PhD concieved of the analysis and supervised the research.
 
-### References
+## References
 1. P. A. Rogerson, D. A. Plane, The Hoover Index of Population Concentration and the Demographic Components of Change: An Article in Memory of Andy Isserman. *International Regional Science Review* 36, 97-114 (2012)
 
 2. G. M. Steeves, F. C. Petterini, G. V. Moura, The interiorization of Brazilian violence, policing, and economic growth. *EconomiA* 16, 359-375 (2015).
