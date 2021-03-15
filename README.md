@@ -7,7 +7,7 @@ Here we provide the data and pipeline for:  **Spatiotemporal pattern of COVID-19
 
 ### Citation
 
-> Castro M C, Kim S, Barbeira L, et al. Spatiotemporal pattern of COVID-19 spread in Brazil. *In press*.
+> Castro M C, Kim S, Barbeira L, et al. Spatiotemporal pattern of COVID-19 spread in Brazil. *Under Review*.
 
 
 # Abstract
