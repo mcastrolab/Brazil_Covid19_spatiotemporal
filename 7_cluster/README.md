@@ -4,10 +4,10 @@
 We conducted a hierarchical cluster analysis by defining a dissimilarity measure between pairs of observations using a Euclidean distance and the average linkage method. It was based on five metrics for each state:
 
 #### Data inputs
-* cumulataive deaths per 100,000 people, 
+* cumulative deaths per 100,000 people, 
 * maximum percentage of deaths in a week, 
 * maximum value of SD in a week,
-* epidemiological week when HId became lower than 50, 
+* epidemiological week when the locational Hoover Index for deaths (HId) became lower than 50, 
 * maximum estimated value of the effective reproduction number *(R<sub>t</sub>)* in a week. The *R<sub>t</sub>* (presented in __Table S14__) was extracted from Observatório Covid-19 Brazil ([Observatório Covid-19 Brazil](https://covid19br.github.io/)). 
 
 All data for the analysis is contained in `data/hclust_input.csv`.
@@ -17,7 +17,7 @@ The R script `code/Hclust.R` was developed to run the hierarchical cluster analy
 ## Manuscript Output
 The results are visualized in  __Fig. 4D__, produced in ArcMap.
 
-__Author:__ Sun Kim conducted the cluster analysis and produced the visualizations. Marcia C. Castro, PhD concieved of the research and supervised the analysis.
+__Author:__ Sun Kim conducted the cluster analysis and produced the visualizations. Marcia C. Castro, PhD conceived of the research and supervised the analysis.
 
 
 ### License
