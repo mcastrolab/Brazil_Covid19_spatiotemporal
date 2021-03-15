@@ -43,11 +43,11 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 
 - __Marcia C Castro__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@marciacastrorj](https://twitter.com/marciacastrorj))
 - __Sun Kim__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@SunKim0710](https://twitter.com/SunKim0710)) 
-- __Lorena Barberia__: Department of Political Science, University of São Paulo (USP), Sao Paulo, SO, Brazil.
+- __Lorena Barberia__: Department of Political Science, University of São Paulo (USP), Sao Paulo, SO, Brazil.| ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@lorenagbarberia](https://twitter.com/lorenagbarberia)) 
 - __Ana Freitas Ribeiro__: Universidade Nove de Julho, São Paulo, SP, Brazil; Universidade Municipal de São Caetano do Sul, São Cetano do Sul, SP, Brazil.
 - __Susie Gurzenda__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@susiegurzenda](https://twitter.com/susiegurzenda))
-- __Karina Braga Ribeiro__: Faculdade de Ciências Médicas da Santa Casa de São Paulo, Department of Collective Health, São Paulo, SP, Brazil.
+- __Karina Braga Ribeiro__: Faculdade de Ciências Médicas da Santa Casa de São Paulo, Department of Collective Health, São Paulo, SP, Brazil. ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@kbribeiro](https://twitter.com/kbribeiro))
 - __Erin Abbott__: Center for Geographical Analysis, Harvard University, Cambridge, MA, USA.
-- __Jeffrey Blossom__: Center for Geographical Analysis, Harvard University, Cambridge, MA, USA.
-- __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil.
+- [__Jeffrey Blossom__](https://projects.iq.harvard.edu/jeffblossom/home): Center for Geographical Analysis, Harvard University, Cambridge, MA, USA.
+- __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil. ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@beatrizrache](https://twitter.com/beatrizrache)) 
 - __Burton H Singer__: Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA.
