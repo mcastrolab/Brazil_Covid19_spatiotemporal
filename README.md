@@ -59,7 +59,7 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 - __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@beatrizrache](https://twitter.com/beatrizrache) 
 - __Burton H Singer__: Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA
 
-### Repository at time of publication
+## Repository at time of publication
 This repository is continually updated for clarity in response to feedback. However, all code will remain public and reproducible.
 
 For full transparency, we include what the respository looked like at the time of journal submission. Thus, the [First release](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/releases) is the version of the repository that existed at the time of submission. This release is archived on Zenodo:
