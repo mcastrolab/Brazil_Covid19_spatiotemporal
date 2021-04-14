@@ -1,13 +1,14 @@
 # Spatiotemporal pattern of COVID-19 spread in Brazil 
+
  
  ![Nation_cases_centroids.gif](2_geographic_center/gif/Nation_cases_centroids.gif)
  
- # Introduction
-Here we provide the data and pipeline for:  **Spatiotemporal pattern of COVID-19 spread in Brazil**
+# Introduction
+Here we provide the data and pipeline for: [Spatiotemporal pattern of COVID-19 spread in Brazil](https://science.sciencemag.org/content/early/2021/04/13/science.abh1558)
 
 ### Citation
 
-> Castro M C, Kim S, Barbeira L, et al. Spatiotemporal pattern of COVID-19 spread in Brazil. *Under Review*.
+> Castro MC, Kim S, Barbeira L, et al. Spatiotemporal pattern of COVID-19 spread in Brazil. *Science*. 2021. DOI:10.1126/science.abh1558
 
 
 # Abstract
@@ -47,16 +48,20 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 # Authors
 
 
-- __Marcia C Castro__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@marciacastrorj](https://twitter.com/marciacastrorj))
+- __Marcia C Castro__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@marciacastrorj](https://twitter.com/marciacastrorj)
 - __Sun Kim__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@SunKim0710](https://twitter.com/SunKim0710)) 
-- __Lorena Barberia__: Department of Political Science, University of São Paulo (USP), Sao Paulo, SO, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@lorenagbarberia](https://twitter.com/lorenagbarberia)) 
+- __Lorena Barberia__: Department of Political Science, University of São Paulo (USP), Sao Paulo, SO, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@lorenagbarberia](https://twitter.com/lorenagbarberia) 
 - __Ana Freitas Ribeiro__: Universidade Nove de Julho, São Paulo, SP, Brazil; Universidade Municipal de São Caetano do Sul, São Cetano do Sul, SP, Brazil.
-- __Susie Gurzenda__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@susiegurzenda](https://twitter.com/susiegurzenda))
-- __Karina Braga Ribeiro__: Faculdade de Ciências Médicas da Santa Casa de São Paulo, Department of Collective Health, São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@kbribeiro](https://twitter.com/kbribeiro))
+- __Susie Gurzenda__: Department of Global Health and Population, Harvard TH Chan School of Public Health | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@susiegurzenda](https://twitter.com/susiegurzenda)
+- __Karina Braga Ribeiro__: Faculdade de Ciências Médicas da Santa Casa de São Paulo, Department of Collective Health, São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@kbribeiro](https://twitter.com/kbribeiro)
 - __Erin Abbott__: Center for Geographical Analysis, Harvard University, Cambridge, MA, USA. | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@Erin_Abbott1](https://twitter.com/Erin_Abbott1)) 
 - __Jeffrey Blossom__: Center for Geographical Analysis, Harvard University, Cambridge, MA, USA. | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [projects.iq.harvard.edu/jeffblossom](https://projects.iq.harvard.edu/jeffblossom/home)
-- __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@beatrizrache](https://twitter.com/beatrizrache)) 
+- __Beatriz Rache__: Instituto de Estudos para Políticas de Saúde (IEPS), São Paulo, SP, Brazil | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@beatrizrache](https://twitter.com/beatrizrache) 
 - __Burton H Singer__: Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA
 
+### Repository at time of publication
+This repository is continually updated for clarity in response to feedback. However, all code will remain public and reproducible.
+
+For full transparency, we include what the respository looked like at the time of journal submission. Thus, the [First release](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/releases) is the version of the repository that existed at the time of submission. This release is archived on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4606715.svg)](https://doi.org/10.5281/zenodo.4606715)
