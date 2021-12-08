@@ -62,6 +62,6 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 ## Repository at time of publication
 This repository is continually updated for clarity in response to feedback. However, all code will remain public and reproducible.
 
-For full transparency, we include what the respository looked like at the time of journal submission. Thus, the [First release](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/releases) is the version of the repository that existed at the time of submission. This release is archived on Zenodo:
+For full transparency, we include what the repository looked like at the time of journal submission. Thus, the [First release](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/releases) is the version of the repository that existed at the time of submission. This release is archived on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4606715.svg)](https://doi.org/10.5281/zenodo.4606715)
